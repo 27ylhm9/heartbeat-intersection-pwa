@@ -1,0 +1,14 @@
+{
+  "name": "心跳交点：周子清的奇妙日常",
+  "short_name": "心跳交点",
+  "description": "现代都市与大学生活交织的腹黑 Galgame PWA 原型",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2e8",
+  "theme_color": "#ff7d9c",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
